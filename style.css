@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'GraphikWeb';
+  font-weight: 400;
+  font-style: normal;
+  src: url('GraphikWeb-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GraphikWeb';
+  font-weight: 700;
+  font-style: normal;
+  src: url('GraphikWeb-700.woff2') format('woff2');
+}
